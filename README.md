@@ -19,8 +19,8 @@ It helps users build lasting routines by offering an interface for logging daily
 - CSS
 - LocalStorage 
 
-## 🚀 Live Demo
-[Visit the Live App](https://your-netlify-link.com)
+
+## 🚀 Live Demo [Visit the Live App](https://trackifyapp.netlify.app/)
 
 
 ## 🚀 Future Enhancements
